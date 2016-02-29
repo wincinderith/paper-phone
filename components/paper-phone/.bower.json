@@ -1,0 +1,41 @@
+{
+  "name": "paper-phone",
+  "authors": [
+    "Kevin Boxhoorn <kevin@sarox.com.au>"
+  ],
+  "description": "An element for displaying a phone number, including a tooltip and tel link.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "paper",
+    "phone",
+    "link"
+  ],
+  "main": "paper-phone.html",
+  "license": "http://wincinderith.github.io/paper-phone/components/paper-phone/LICENSE",
+  "homepage": "https://github.com/wincinderith/paper-phone/",
+  "ignore": [
+    "/.*",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "paper-tooltip": "PolymerElements/paper-tooltip#^1.0.0",
+    "paper-styles": "PolymerElements/paper-styles#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  },
+  "_release": "b8858ade6d",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "b8858ade6d28a241b214e8d7267b386d30a5e7f6"
+  },
+  "_source": "git://github.com/wincinderith/paper-phone.git",
+  "_target": "master",
+  "_originalSource": "wincinderith/paper-phone",
+  "_direct": true
+}
